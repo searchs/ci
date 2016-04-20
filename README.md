@@ -1,10 +1,10 @@
 # ci
 Building a Continuous Delivery pipeline just for demos.  Proper practice of proper principles leads to proper deliveries
 
-*Test Framework - Architect stuff
 
+## Test Framework - Architect stuff
 
-## Tools and Highpoints
+### Tools and Highpoints
 * Apache Maven
 * Language: Java
 * Unit Testing:  TestNG/Junit

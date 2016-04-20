@@ -11,7 +11,7 @@ Building a Continuous Delivery pipeline just for demos.  Proper practice of prop
 * Design Pattern:  Page Object
 * Behaviour Driven Dev:  Cucumber
 * Cross Browser Testing:  Selenium Grid
-* Framework Design
+* Framework Design [using Selenium WebDriver as basis]
 * Mobile Testing:  Appium, UIAutomation and others (?: KIF, Expresso) 
 * Object Oriented Paradigm
 * Functional Programming ideas

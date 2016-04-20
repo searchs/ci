@@ -4,9 +4,13 @@ Building a Continuous Delivery pipeline just for demos.  Proper practice of prop
 ## Solutions Design View
 * What's the goal of CD?
 * What do you want the CD to do?
+* Is solution portable?
+* Is solution Cloud friendly?
 * Is goal SLA based?
 * Is solution language or language agnostic?
 * Readable Reports? - UI based report easily understood by Business and Tech teams
+* Think APIs and IoT
+
 
 
 ## Test Framework - Architect stuff

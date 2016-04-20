@@ -17,6 +17,7 @@ Building a Continuous Delivery pipeline just for demos.  Proper practice of prop
 
 ### Tools and Highpoints
 * Apache Maven
+* Version Control:  Git (of course!)
 * Language: Java
 * Unit Testing:  TestNG/Junit
 * Design Pattern:  Page Object

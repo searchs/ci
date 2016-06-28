@@ -9,9 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
 
-    <name>Mastering Selenium TestNG</name>
+    <name>SC Selenium Framework TestNG</name>
     <description>A basic Selenium POM file</description>
-    <url>http://www.masteringselenium.com</url>
+    <url>http://www.softcreative.co.uk</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8
